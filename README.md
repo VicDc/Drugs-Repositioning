@@ -1,5 +1,5 @@
 # 💊 Drugs Repositioning with Machine Learning 💡
-![Project Overview](img_Drugs/Drugs_K-means and RandomForest-04-05.jpg)
+[Project Overview](img_Drugs/Drugs_K-means and RandomForest-04-05.jpg)
 Welcome to the **Drugs Repositioning** project repository! This project explores the fascinating field of repurposing existing drugs for new therapeutic uses, leveraging the power of Machine Learning. By identifying novel connections between drugs and diseases, we aim to accelerate drug discovery, reduce development costs, and bring new treatments to patients faster.
 
 ## 🤔 What is Drug Repositioning?
