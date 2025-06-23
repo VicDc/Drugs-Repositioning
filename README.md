@@ -1,6 +1,6 @@
 # 🧬 PharmaAI: Revolutionizing Drug Repositioning 🚀
 
-![Project Overview](img_Drugs/Drugs_K-means and RandomForest-04-05.jpg)
+![Project Overview]([img_Drugs/Drugs_K-means and RandomForest-04-05.jpg](https://github.com/VicDc/Drugs-Repositioning/blob/main/img_Drugs/Drugs_K-means%20and%20RandomForest-04-05.jpg))
 
 ---
 
